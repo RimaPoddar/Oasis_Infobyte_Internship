@@ -32,5 +32,3 @@ This project provided me with practical experience in working with speech recogn
 This project has enhanced my understanding of Python programming and problem-solving skills, laying a solid foundation for future tasks.
 
 
-...
-
