@@ -35,9 +35,9 @@ This project has significantly improved my Python programming skills, especially
 
 ## Functionalities:
 
-Customizable Character Sets: Users can choose to include or exclude uppercase letters, lowercase letters, digits, and punctuation marks in their passwords.
-Random Shuffling: The script ensures that the generated password is shuffled randomly, enhancing security.
-Error Handling: The script includes robust error handling to manage invalid inputs and ensure that at least one character set is selected.
+1.Customizable Character Sets: Users can choose to include or exclude uppercase letters, lowercase letters, digits, and punctuation marks in their passwords.
+2.Random Shuffling: The script ensures that the generated password is shuffled randomly, enhancing security.
+3.Error Handling: The script includes robust error handling to manage invalid inputs and ensure that at least one character set is selected.
 
 **Outcome:**
 With this script, you can easily create strong and unpredictable passwords tailored to your specific needs. Whether you need a complex password for a high-security application or a simple one for a less critical use, this script has got you covered.
