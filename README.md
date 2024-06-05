@@ -11,7 +11,9 @@ Welcome to my GitHub repository documenting the tasks and projects I completed d
 
 ## Functionality:
 1.Speech Recognition: Captures and processes voice commands using the SpeechRecognition library.
+
 2.Text-to-Speech: Provides spoken responses using the pyttsx3 library.
+
 3.Basic Commands:
 Greetings: Responds to "hello".
 Time and Date: Tells the current time and date.
@@ -24,8 +26,11 @@ This project provided me with practical experience in working with speech recogn
 
 ## Functionality:
 1.User Input Validation: Utilized a while loop and exception handling to ensure valid numeric input for weight and height.
+
 2.BMI Calculation: Developed a function to calculate BMI based on weight and height inputs.
+
 3.BMI Categorization: Implemented logic to categorize BMI into different weight categories: Underweight, Normal weight, Overweight, and Obesity.
+
 4.Informative Output: Provided clear feedback to the user by displaying calculated BMI and its corresponding weight category.
 
 **Outcome:**  
@@ -36,7 +41,9 @@ This project has significantly improved my Python programming skills, especially
 ## Functionalities:
 
 1.Customizable Character Sets: Users can choose to include or exclude uppercase letters, lowercase letters, digits, and punctuation marks in their passwords.
+
 2.Random Shuffling: The script ensures that the generated password is shuffled randomly, enhancing security.
+
 3.Error Handling: The script includes robust error handling to manage invalid inputs and ensure that at least one character set is selected.
 
 **Outcome:**
