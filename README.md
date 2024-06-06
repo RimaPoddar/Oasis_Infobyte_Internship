@@ -7,7 +7,7 @@ Welcome to my GitHub repository documenting the tasks and projects I completed d
 
 ## Tasks
 
-### Task 1: Voice Assitant
+### Task 1: Voice Assistant
 
 ## Functionality:
 1.Speech Recognition: Captures and processes voice commands using the SpeechRecognition library.
